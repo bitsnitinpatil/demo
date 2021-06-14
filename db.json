@@ -124,56 +124,5 @@
             "location": "Seattle, WA",
             "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
         }
-    ],
-"Sponsership": [
-        {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Jessica Adams",
-            "email": "jess.adams@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Starbucks"
-        },
-       {
-            "avatar":"SB",
-            "name": "Sarah Baker",
-            "email": "sa.baker@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Baker"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Roger Decker",
-            "email": "rogerdecker@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Microsoft"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Becky Holnes",
-            "email": "becky@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Starbucks"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Roger Decker",
-            "email": "rogerdecker@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Accenture"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Becky Holnes",
-            "email": "becky@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "chase"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Roger Decker",
-            "email": "rogerdecker@gmail.com",
-            "phone": "203.555.7384",
-            "jobTitleCompany": "Starbucks"
-        },
     ]
 }
