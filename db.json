@@ -175,39 +175,5 @@
             "phone": "203.555.7384",
             "jobTitleCompany": "Starbucks"
         }
-    ],	
-    "Jobs": [
-        {
-	   "title": "Accounts Payable Clerk",
-            "servicesName": "AMP Services",
-            "postDate": "February 13, 2021",
-            "location": "Seattle, WA"           
-        },
-	{
-	   "title": "Accounts Payable Clerk",
-            "servicesName": "AMP Services",
-            "postDate": "February 13, 2021",
-            "location": "Seattle, WA"            
-        },
-	{
-	    "title": "Accounts Payable Clerk",
-            "servicesName": "AMP Services",
-            "postDate": "February 13, 2021",
-            "location": "Seattle, WA"            
-        }       
-    ],	
-   "SavedJobs": [
-        {
-	    "title": "Accounts Payable Clerk",
-            "servicesName": "AMP Services",
-            "postDate": "February 13, 2021",
-            "location": "Seattle, WA"           
-        },
-	{
-	    "title": "Accounts Payable Clerk",
-            "servicesName": "AMP Services",
-            "postDate": "February 13, 2021",
-            "location": "Seattle, WA"            
-        }       
-    ] 
+    ]
 }
