@@ -108,5 +108,22 @@
             "date": "05.05.2021"
         }
        
+    ],
+    "NewJobs": [
+        {
+			"title": "Accounts Payable Clerk",
+            "servicesName":"AMP Services",
+            "postDate": "February 13, 2021",
+            "location": "Seattle, WA",
+            "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
+        },
+		{
+			"title": "Accounts Payable Clerk",
+            "servicesName":"AMP Services",
+            "postDate": "February 13, 2021",
+            "location": "Seattle, WA",
+            "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
+        }
+       
     ]
 }
