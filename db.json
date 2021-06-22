@@ -2,19 +2,19 @@
     "RecentJobs": [
         {
             "icon": "icon-post",
-            "title": "Posted Jobcccc",
+            "title": "Posted Job",
             "jobTitle": "Financial Analyst",
             "date": "05.05.2021"
         },
         {
             "icon": "icon-post",
-            "title": "Posted Jobcccc",
-            "jobTitle": "Financial Analyst",
+            "title": "Posted Job",
+            "jobTitle": "Accounts Payable Supervisor",
             "date": "05.05.2021"
         },
         {
             "icon": "icon-post",
-            "title": "Posted Jobcffc",
+            "title": "Posted Job",
             "jobTitle": "Financial Analyst",
             "date": "05.05.2021"
         }
@@ -22,13 +22,6 @@
     "NewResumes": [
         {
             "icon": "icon-favorite-outline",
-            "jobTitle": "Project Managder",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
             "jobTitle": "Project Manager",
             "name": "Stephen Jackson",
             "postedDate": "Feb 13, 2021",
@@ -57,7 +50,14 @@
         },
         {
             "icon": "icon-favorite-outline",
-            "jobTitle": "Project Managder",
+            "jobTitle": "Project Manager",
+            "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
             "name": "Stephen Jackson",
             "postedDate": "Feb 13, 2021",
             "location": "Seattle, WA"
