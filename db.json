@@ -29,8 +29,22 @@
         },
         {
             "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
+            "jobTitle": "Insurance Sales Agent",
             "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
+            "name": "Emma Johnson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Web Developer",
+            "name": "Trey Smith",
             "postedDate": "Feb 13, 2021",
             "location": "Seattle, WA"
         },
@@ -43,8 +57,22 @@
         },
         {
             "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
+            "jobTitle": "Sales Manager",
+            "name": "Katerin Adams",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Retail Salesperson",
+            "name": "Chris Jordan",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Operations Manager",
+            "name": "Robert Cena",
             "postedDate": "Feb 13, 2021",
             "location": "Seattle, WA"
         },
@@ -57,36 +85,8 @@
         },
         {
             "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
+            "jobTitle": "Accountant",
+            "name": "Dana Buxton",
             "postedDate": "Feb 13, 2021",
             "location": "Seattle, WA"
         }
@@ -102,7 +102,7 @@
         },
         {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Stephen Jackson",
+            "name": "Dana Buxton",
             "subject": "new job posting",
             "text": "Jennifer, I'm letting you know that a new job that I feel woluld be a great fit has been posted. You can..",
             "date": "05.05.2021"
